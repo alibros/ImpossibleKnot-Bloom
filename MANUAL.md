@@ -296,7 +296,7 @@ There is no separate clean-tail/shimmer-tail output balance in the current
 build. Use `SHIMMER`, `MIX`, and the two arrival controls to manage the
 relationship between the dry plate character and the harmonic tail.
 
-The module is 24 HP. BLOOM is closed-source freeware: it is free to install and
+The module is 20 HP. BLOOM is closed-source freeware: it is free to install and
 use, including in commercial music, under the bundled proprietary licence.
 Product information, updates, and this manual are available from the
 [public BLOOM page](https://github.com/alibros/ImpossibleKnot-Bloom). Support:

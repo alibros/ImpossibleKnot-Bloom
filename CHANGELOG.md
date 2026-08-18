@@ -16,4 +16,4 @@ Library.
 - Selectable classic Chladni and organic botanical displays, driven by the
   controls and audio
 - Full CV with attenuverters, freeze gate, and dual-mode bypass
-- Five factory presets and final 24 HP botanical panel artwork
+- Five factory presets and final 20 HP botanical panel artwork
