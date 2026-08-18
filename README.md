@@ -3,7 +3,7 @@
 BLOOM is a free shimmer reverb for VCV Rack 2 that lets you decide when the
 octave arrives and how slowly it grows.
 
-![BLOOM panel](assets/Bloom.svg)
+![BLOOM running in VCV Rack with its organic display active](assets/Bloom-in-Rack.png)
 
 Most shimmer reverbs add a fixed delay before their pitch-shifted feedback.
 BLOOM turns that moment into something playable: **ONSET** holds the shimmer
