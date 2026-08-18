@@ -1,0 +1,76 @@
+IMPOSSIBLE KNOT BLOOM PROPRIETARY FREEWARE LICENSE
+Version 1.0, 18 August 2026
+
+Copyright (c) 2026 Impossible Knot. All rights reserved.
+
+This license applies to Impossible Knot BLOOM version 2.0.0 and to later
+versions that include this license (the "Software"). Earlier versions that a
+recipient validly received under another license remain governed by that
+license; this agreement does not revoke rights already granted for them.
+
+1. Freeware license grant
+
+Subject to this agreement, Impossible Knot grants you a personal,
+non-exclusive, non-transferable, revocable license to download, install, and
+run unmodified binary copies of the Software, free of charge, solely as a
+plugin for VCV Rack. You may use audio, music, patches, recordings, and other
+creative output made with the Software for personal or commercial purposes.
+
+2. Restrictions
+
+Except where applicable law does not allow a restriction, you may not:
+
+  a. copy the Software except for a reasonable personal backup;
+  b. modify, adapt, translate, or create derivative works of the Software;
+  c. reverse engineer, decompile, or disassemble the Software;
+  d. sell, rent, lease, sublicense, host, publish, or redistribute the
+     Software or any part of it; or
+  e. remove or alter copyright, trademark, attribution, or proprietary
+     notices.
+
+Official binary packages may be distributed only by Impossible Knot, VCV, or
+another party expressly authorized in writing by Impossible Knot.
+
+3. Ownership
+
+The Software is licensed, not sold. Impossible Knot retains all right, title,
+and interest in the Software, its source code, visual design, name, and marks.
+No rights are granted except those stated expressly in this agreement.
+
+4. Third-party material
+
+Third-party material remains subject to its own license terms. Required
+attributions and notices are provided in THIRD_PARTY_NOTICES.txt and form part
+of this distribution.
+
+5. Updates and availability
+
+Impossible Knot may modify, replace, or discontinue the Software or its
+distribution at any time. This agreement does not create an obligation to
+provide updates, maintenance, support, or continued availability.
+
+6. Termination
+
+This license terminates automatically if you breach this agreement. On
+termination, you must stop using the Software and delete all copies in your
+possession or control. Sections 2, 3, 4, 7, and 8 survive termination.
+
+7. Disclaimer of warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. YOU USE THE SOFTWARE AT
+YOUR OWN RISK.
+
+8. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IMPOSSIBLE KNOT WILL NOT BE LIABLE FOR
+ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+DAMAGES, OR FOR LOST DATA, PROFITS, REVENUE, BUSINESS, OR GOODWILL, ARISING
+FROM OR RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES. IMPOSSIBLE KNOT'S TOTAL LIABILITY ARISING FROM OR RELATED TO THE
+SOFTWARE WILL NOT EXCEED THE AMOUNT YOU PAID FOR THE SOFTWARE.
+
+9. Contact
+
+Licensing and support enquiries: hello@impossible-knot.com
